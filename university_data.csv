@@ -1,0 +1,11 @@
+StudentID,Age,Gender,Department,CGPA,Attendance,Credits,Internship,Placement
+S001,20,Male,CSE,8.2,85,120,Yes,Placed
+S002,21,Female,ECE,7.5,78,118,No,Not Placed
+S003,22,Male,ME,6.8,65,110,No,Not Placed
+S004,20,Female,CSE,9.1,92,130,Yes,Placed
+S005,23,Male,CIVIL,7.2,70,115,No,Not Placed
+S006,21,Female,ECE,8.0,82,125,Yes,Placed
+S007,22,Male,CSE,6.5,60,105,No,Not Placed
+S008,20,Female,ME,8.7,88,128,Yes,Placed
+S009,23,Male,CIVIL,7.8,75,117,No,Not Placed
+S010,21,Female,CSE,9.3,95,132,Yes,Placed
