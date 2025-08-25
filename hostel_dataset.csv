@@ -1,0 +1,11 @@
+Student_ID,Name,Room_No,Year,Department,Mess_Rating,Attendance_Percentage,Monthly_Fee,Electricity_Usage,Complaints
+101,Ashok,101,1,CSE,4,85,5000,45,1
+102,Meena,102,2,ECE,3,78,5000,50,0
+103,Ravi,103,3,ME,5,92,5200,60,2
+104,Divya,104,1,EEE,2,67,4800,40,1
+105,Sneha,105,4,CSE,4,88,5000,55,0
+106,Arjun,106,2,ME,3,74,5100,42,3
+107,Preeti,107,3,CIVIL,5,91,5000,65,1
+108,Vinay,108,4,EEE,2,62,4800,58,2
+109,Kiran,109,1,ECE,4,81,5000,47,0
+110,Varun,110,2,CSE,5,95,5200,53,1
